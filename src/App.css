@@ -1,13 +1,12 @@
-
 body {
 	background: #141414;
 	color: #ffffff;
 }
 
-/* .movie-app > .row {
-	overflow-x: auto;
+.movie-app > .row {
+	overflow-x: hidden;
 	flex-wrap: nowrap;
-} */
+}
 
 .image-container {
 	position: relative;
